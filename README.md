@@ -4,7 +4,6 @@
 # Diva in Tech
 
 
-</div>
 
 ### About me
 
@@ -23,6 +22,8 @@ Goal: [seu objetivo, ex: land my first opportunity in tech]
 𝜗ৎ Email or LinkedIn: [seu email ou LinkedIn]
 
 𝜗ৎ GitHub: you're already here!
+
+</div>
 
 <div align="center">
 
