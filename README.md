@@ -1,12 +1,35 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&weight=600&size=40&pause=1009&color=F7A8D0&background=282426&center=true&width=1200&height=200&lines=Diva+In+Tech" alt="Typing SVG" /></a>
+<div align="center">
 
-## About me 🍥
+# Diva in Tech
 
-- Studying Systems Analysis and Development (ADS) at UEPB
-- Just starting out, learning a little more every day
-- Interested in: web design
+────୨ৎ────
 
-## Currently learning 🍥
-- Web design
-- Java
+</div>
 
+## About me
+
+𝜗ৎ Studying Information Systems / Software Development (ADS) at UEPB
+
+𝜗ৎ Just starting out, learning a little more every day
+
+𝜗ৎ Interested in: [coloque aqui a área que mais te chama, ex: web dev, mobile, dados]
+
+⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+
+Goal: [seu objetivo, ex: land my first opportunity in tech]
+
+## Let's connect
+
+𝜗ৎ Email or LinkedIn: [seu email ou LinkedIn]
+
+𝜗ৎ GitHub: you're already here!
+
+<div align="center">
+
+────୨ৎ────
+
+**Obrigada por visitar meu perfil**
+
+𖹭
+
+</div>
