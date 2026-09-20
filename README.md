@@ -20,15 +20,7 @@
 
 ---
 
-##  Technologies
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
-
-</p>
-
----
 
 ##  GitHub
 
@@ -44,7 +36,7 @@
 
 <div align="center">
 
-## 🌐
+## 
 
 <a href="https://github.com/SEU_USUARIO">
 <img src="https://img.shields.io/badge/GitHub-FFF5F8?style=for-the-badge&logo=github&logoColor=E89BB5">
