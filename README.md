@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=E8A0B8&center=true&vCenter=true&width=500&lines=Diva+in+Tech" alt="Diva in Tech" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&duration=3000&pause=1000&color=ffa6dd&center=true&vCenter=true&width=600&lines=Diva+in+Tech&background=fff5f8" alt="Diva in Tech" />
 
 </div>
 ## About me
