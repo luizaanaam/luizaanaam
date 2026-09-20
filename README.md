@@ -3,22 +3,21 @@
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&duration=3000&pause=1000&color=ffa6dd&center=true&vCenter=true&width=500&lines=Diva+in+Tech" alt="Diva in Tech" />
 
 </div>
-## About me
+About me
+Systems Analysis and Development (ADS) at UEPB
+Trying to improve every day
+Currently learning
+Java
+Web Design
+Technologies
 
-* Systems Analysis and Development (ADS) at UEPB
-* Trying to improve every day
+<div align="center">
 
-### Currently learning
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
 
-* Java
-* Web Design
+</div>
 
----
-
-
----
-
-## GitHub
+GitHub
 
 <div align="center">
 
@@ -28,9 +27,7 @@
 
 </div>
 
----
-
-## GitHub Contributions
+GitHub Contributions
 
 <div align="center">
 
@@ -42,6 +39,6 @@
 
 <div align="center">
 
-### Obrigada por visitar meu perfil!
+Obrigada por visitar meu perfil!
 
 </div>
