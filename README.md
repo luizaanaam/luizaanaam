@@ -3,9 +3,11 @@
 # ⡞⠳⣄⣀⣠⠞⢷ֹ۪  
 # Diva in Tech
 
+</div>
 
-
+<div align="center">
 ### About me
+</div>
 
 𝜗ৎ Studying Information Systems / Software Development (ADS) at UEPB
 
@@ -23,7 +25,7 @@ Goal: [seu objetivo, ex: land my first opportunity in tech]
 
 𝜗ৎ GitHub: you're already here!
 
-</div>
+
 
 <div align="center">
 
