@@ -26,10 +26,6 @@
 
 <div align="center">
 
-<img src="URL_DO_GIF" width="70">
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3000&pause=1000&color=ffa6dd&center=true&vCenter=true&width=600&lines=Obrigada+por+visitar+meu+perfil!" alt="Obrigada por visitar meu perfil!">
 
 </div>
