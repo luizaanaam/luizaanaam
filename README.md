@@ -15,13 +15,6 @@
 
 ---
 
-## Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
-
-</div>
 
 ---
 
