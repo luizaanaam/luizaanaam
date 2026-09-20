@@ -1,11 +1,11 @@
 About Me:
-Hello world!
+## Hello world!
 
-About me 🫧
+# About me 🫧
 - systems analysis and development (ADS) at UEPB
 - Trying to improve every day
 
-Currently learning 🫧
+# Currently learning 🫧
 - Java
 -Web Design
 #  GitHub Stats:
