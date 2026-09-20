@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A0B8&height=180&section=header&text=Diva%20in%20Tech&fontSize=45&fontColor=FFFFFF&fontAlignY=45" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=E8A0B8&center=true&vCenter=true&width=500&lines=Diva+in+Tech" alt="Diva in Tech" />
 
 </div>
-
-<br>
 
 ## About me
 
