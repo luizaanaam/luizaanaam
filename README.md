@@ -12,6 +12,8 @@
 
 𝜗ৎ Studying Information Systems / Software Development (ADS) at UEPB
 
+𝜗ৎ Technical Degree in Digital Game Programming
+
 𝜗ৎ Just starting out, learning a little more every day
 
 𝜗ৎ Interested in: Web design
