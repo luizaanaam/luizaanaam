@@ -1,6 +1,6 @@
 <div align="center">
 
-────────────────୨ৎ────────────────
+──────────────୨ৎ──────────────
 
 <h1 style="border: none;">𝙳𝚒𝚟𝚊 𝚒𝚗 𝚃𝚎𝚌𝚑</h1>
 
@@ -10,24 +10,23 @@
 
 ## ⋆.𐙚 ̊About me
 
-𝜗ৎ Studying Information Systems / Software Development (ADS) at UEPB
+- Studying Information Systems / Software Development (ADS) at UEPB
 
-𝜗ৎ Technical Degree in Digital Game Programming
+- Technical Degree in Digital Game Programming
 
-𝜗ৎ Just starting out, learning a little more every day
+- Just starting out, learning a little more every day
 
-𝜗ৎ Interested in: Web design
-
+- Interested in: Web design
 
 
 
 ## ⋆.𐙚 ̊ Learning
 
-𝜗ৎ  Git & GitHub
+- Git & GitHub
 
-𝜗ৎ Java
+- Java
 
-𝜗ৎ Web Design
+- Web Design
 
 <div align="center">
 
